@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John-B-McQueen
 - 👀 I’m interested in computer science, sports analysis, video games, blockchains, crypto, NFT's, golf, NFL, sportbooks, poker, auto-racing, sim-racing, and all of the University of North Carolina athletic teams.
-- 🌱 I’m currently learning computer science with a sports analysis specialty 
+- 🌱 I’m currently learning computer science with a sports analysis specialty in mind
 - 💞️ I’m looking to collaborate on a NFL Data Bowl project ideally but any other football, golf, basketball, or auto-racing data analysis project would be great
 - 📫 How to reach me Github: @John-B-McQueen Email: johnbmcqueen@mail.com X: @tarheel72681 SMS: +15028886051
 - 😄 Pronouns: He/Him
